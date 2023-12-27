@@ -1,16 +1,10 @@
 # meals_app
 
-A new Flutter project.
+Meals Application Using Dart Language - Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A fast food application with a beautiful, nice, and easy-to-use user interface
+but it requires a database and a little modification
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Don't forget to check the source code
